@@ -1,7 +1,5 @@
 # AL_SUK_RMTRDP
 
-WINRDP
----------
 How to use
 
 Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
